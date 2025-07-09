@@ -1,0 +1,3 @@
+@echo off
+echo Starting Greact-Bones Go API Server...
+"C:\Program Files (x86)\Go\bin\go.exe" run cmd/api/main.go 
