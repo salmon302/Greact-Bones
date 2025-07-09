@@ -176,7 +176,6 @@ If you see `'go' is not recognized as an internal or external command`:
 - **[⚡ Best Practices](docs/BEST-PRACTICES.md)** - Recommended patterns and conventions
 - **[🔧 Troubleshooting](docs/TROUBLESHOOTING.md)** - Common issues and solutions
 - **[🚀 Deployment Guide](docs/DEPLOYMENT.md)** - Production deployment strategies
-- **[🤝 Contributing](docs/CONTRIBUTING.md)** - How to contribute to this project
 
 ### **Research & Background**
 - **[📖 Research Document](docs/RESEARCH.md)** - Comprehensive analysis of technology choices and best practices
@@ -231,22 +230,6 @@ npm install --save-dev @testing-library/react @testing-library/jest-dom
 - **API Documentation**: Swagger/OpenAPI integration
 - **Docker**: Multi-stage builds for production deployment
 
-## 🤝 **Contributing**
-
-We welcome contributions! Please see our [Contributing Guide](docs/CONTRIBUTING.md) for details on:
-- Code of conduct
-- Development workflow
-- Pull request process
-- Coding standards
-
 ## 📄 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ⭐ **Show Your Support**
-
-If this project helped you, please consider giving it a star! It helps others discover the project and motivates continued development.
-
----
-
-**Happy coding!** 🚀 Built with ❤️ for the developer community.
